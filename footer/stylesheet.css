@@ -1,0 +1,31 @@
+.footer {
+    background-color: #1B5D7E;
+    color: #E5C05F;
+    height: 150px;
+    padding: 40px;
+    margin: 10px;
+    font-family: "Buttons";
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+    font-family: "Avenir  Next";
+  }
+  
+  .footer-list {
+    float: right;
+    padding : 10px;
+
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+    list-style: none;
+  }
+  p {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 130px;
+    margin-left:60px;
+  }

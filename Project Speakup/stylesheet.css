@@ -1,0 +1,20 @@
+body {
+    background-color: #E5C05F;
+}
+.main h1 {
+    font-size: 45px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    color: #C64044;
+    padding-left:80px;
+    padding-right:80px;
+}
+.main p {
+    font-size: 28px;
+    font-family: sans-serif;
+    font-style: normal;
+    color: #1B5D7E; 
+    margin: inherit;
+    padding-left:80px;
+    padding-right:80px;
+}
